@@ -19,4 +19,4 @@ The .php files to access the database are located in the website folder
 
 The app was created using Unity3D
 
-All the files needed to develop the Unity3D app along with the C# code backend are contained in the App folder
+All the files needed to develop the Unity3D app along with the C# code backend are contained in the Github code folder
